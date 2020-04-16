@@ -25,7 +25,6 @@
  ```
  docker run --name fastfeat -e POSTGRES_PASSWORD=123 -p 5432:5432 -d postgres
  ```
- ```
 * `Lembrando que é necessário renomear o arquivo .env.example para .env e assim colocar as suas devidas variáveis de acordo com seu ambiente;`
 4. Execute as migrations com `yarn sequelize db:migrate`;
 
