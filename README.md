@@ -33,12 +33,6 @@
 6. Clique neste botão [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Fastfeet&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fraphabarreto%2Fgostack-desafios%2Fmaster%2F03%2FFastFeet.json) para que seja importado todo o workspace no seu Insomnia ou navegue até **[aqui](https://raw.githubusercontent.com/raphabarreto/gostack-desafios/master/03/FastFeet.json)** para acessar o arquivo JSON para consumo da API.
 7. E por último execute os comandos `yarn dev` e logo após `yarn queue`;
 
-# 🔨 Resultado
-<h1 align="center">
-<img src="../.github/backend.png" alt="Backend">
-<a href="https://insomnia.rest/run/?label=Fastfeet&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fraphabarreto%2Ffastfeet%2Fmaster%2Fbackend%2FFastFeet.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</h1>
-
 ## 🧾 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
