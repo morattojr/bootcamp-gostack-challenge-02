@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src="../.github/logo.png" width="300px" />
+  <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px">
 </h1>
 
 <h3 align="center">Desafio 2: FastFeet, o início</h3>
@@ -24,7 +24,6 @@
 3. Crie os seguintes contâiners no docker:
  ```
  docker run --name fastfeat -e POSTGRES_PASSWORD=123 -p 5432:5432 -d postgres
- ```
  ```
  ```
 * `Lembrando que é necessário renomear o arquivo .env.example para .env e assim colocar as suas devidas variáveis de acordo com seu ambiente;`
