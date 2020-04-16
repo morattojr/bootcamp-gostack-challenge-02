@@ -15,10 +15,10 @@
 - ⚡ [Sequelize](https://sequelize.org/)
 
 # 🔥 Instalação
-1. Faça o clone do projeto `git clone git@github.com:raphabarreto/gostack-desafios.git`
+1. Faça o clone do projeto `git clone git@github.com:morattojr/bootcamp-gostack-challenge-02.git`
 
 # 💻 Execução
-1. Entre na pasta `02`;
+1. Entre na pasta `bootcamp-gostack-challenge-02`;
 
 2. Execute `yarn install` para instalar todas as dependências;
 3. Crie os seguintes contâiners no docker:
