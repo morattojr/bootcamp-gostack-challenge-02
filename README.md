@@ -29,7 +29,7 @@
 4. Execute as migrations com `yarn sequelize db:migrate`;
 
 5. Execute as seeds com `yarn sequelize db:seed:all`;
-6. Clique neste botão <a href="https://insomnia.rest/run/?label=Fastfeet%2001&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmorattojr%2Fbootcamp-gostack-challenge-02%2Fmaster%2FInsomnia_2020-04-15.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a> para que seja importado todo o workspace no seu Insomnia ou navegue até **[aqui](https://raw.githubusercontent.com/raphabarreto/gostack-desafios/master/03/FastFeet.json)** para acessar o arquivo JSON para consumo da API.
+6. Clique neste botão <a href="https://insomnia.rest/run/?label=Fastfeet%2001&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmorattojr%2Fbootcamp-gostack-challenge-02%2Fmaster%2FInsomnia_2020-04-15.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a> para que seja importado todo o workspace no seu Insomnia ou navegue até **[aqui](https://github.com/morattojr/bootcamp-gostack-challenge-02/blob/master/Insomnia_2020-04-15.json)** para acessar o arquivo JSON para consumo da API.
 7. E por último execute os comandos `yarn dev` e logo após `yarn queue`;
 
 ## 🧾 Licença
